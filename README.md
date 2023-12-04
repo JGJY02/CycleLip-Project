@@ -3,6 +3,6 @@ This repository contains codes relating to the integration of the lip2wav and wa
 
 The lip2wav and wav2lip base codes were not created by me so check out the amazing work in the links below
 
-lip2wav - https://github.com/Rudrabha/Lip2Wav
-lip2wav-multispeaker - https://github.com/Rudrabha/Lip2Wav/tree/multispeaker
+lip2wav - https://github.com/Rudrabha/Lip2Wav \n
+lip2wav-multispeaker - https://github.com/Rudrabha/Lip2Wav/tree/multispeaker \n
 wav2lip - https://github.com/Rudrabha/Wav2Lip
